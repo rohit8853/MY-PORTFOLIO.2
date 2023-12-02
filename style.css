@@ -1,0 +1,15 @@
+.home{
+    background-color: gray;
+    height: 100vh;
+    width: 103px;
+
+}
+ul{
+    display: inline;
+    left: -22px;
+    position: absolute;
+    top: 64px;
+  }
+ul li{
+    padding: 14px;
+}
